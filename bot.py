@@ -11,8 +11,7 @@ logging.basicConfig(
 )
 
 # Токен из переменных Railway
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-
+BOT_TOKEN = os.environ.get"8790836425":AAH0Z6HYk0SrSw-wQKZiEF5070rHp4aXBPo
 ADMIN_ID = 7005005023
 
 
